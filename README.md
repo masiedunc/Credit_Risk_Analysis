@@ -1,7 +1,7 @@
 # Credit_Risk_Analysis
 
-## Overview pf Analysis
+## Overview of Analysis
 
-##Results
+## Results
 
-##Summary
+## Summary
