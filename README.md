@@ -14,5 +14,4 @@ The purpose of this project is to create and evaluate models that predict credit
   - Easy Ensemble AdaBoost Classifier
 
 ## Summary
-- There is a summary of the results 
-- There is a recommendation on which model to use, or there is no recommendation with a justification
+When evaluating all the models and methods used, it was found that many models’ low-risk categories have high precision scores of 1.00. Yet, reviewing the Oversampling and Undersampling models, lower accuracy scores were recorded. The high-risk loans are important to predict, so when we analyze the Ensemble Learners, specifically the Easy Ensemble AdaBoost Classifier, it had the best performance of all when looking at accuracy and recall scores. It is recommended to use this model for predicting credit risk. 
