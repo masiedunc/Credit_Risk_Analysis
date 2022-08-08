@@ -14,9 +14,10 @@ The purpose of this project is to create and evaluate models that predict credit
     - High-risk recall score of 0.70
     - Low-risk precision score of 1.00
     - Low-risk recall score of 0.62.
-    
+<br />
+
 - **SMOTE Oversampling**
-- 
+
   - The SMOTE Oversampling model results:
     - Balanced accuracy score of 0.6622
     - High-risk precision score of 0.01
@@ -25,7 +26,7 @@ The purpose of this project is to create and evaluate models that predict credit
     - Low-risk recall score of 0.69
     
 - **Undersampling**
--   
+ 
 ![under sampling](https://user-images.githubusercontent.com/102122063/183328191-2107f180-7ae7-463f-9d32-ca4deb766d07.PNG)
 
 - The Undersampling model results:
@@ -34,9 +35,9 @@ The purpose of this project is to create and evaluate models that predict credit
     - High-risk recall score of 0.69
     - Low-risk precision score of 1.00
     - Low-risk recall score of 0.40
-    
+   
 - **SMOTEEN Combination over/under sampling**
-- 
+
 ![Combination sampling](https://user-images.githubusercontent.com/102122063/183328234-93fa7f42-5241-4d38-b8cf-130e8f82d1c7.PNG)
 
   - SMOTEEN Combination over/under sampling results:
