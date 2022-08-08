@@ -52,7 +52,7 @@ The purpose of this project is to create and evaluate models that predict credit
  
 ### Ensemble Learners
   - Balanced Random Forest Classifier
-    - Balanced accuracy score of 0.6447
+    - Balanced accuracy score of 0.7885
     - High-risk precision score of 0.01
     - High-risk recall score of 0.72
     - Low-risk precision score of 1.00
@@ -61,7 +61,7 @@ The purpose of this project is to create and evaluate models that predict credit
  ![random forest](https://user-images.githubusercontent.com/102122063/183329005-b4bc31ae-871e-4c99-82e0-b53217ad56c2.PNG)
 
   - Easy Ensemble AdaBoost Classifier
-    - Balanced accuracy score of 0.6447
+    - Balanced accuracy score of 0.9316
     - High-risk precision score of 0.03
     - High-risk recall score of 0.70
     - Low-risk precision score of 1.00
