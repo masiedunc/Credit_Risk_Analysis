@@ -4,7 +4,7 @@
 The purpose of this project is to create and evaluate models that predict credit risk. Credit risk has an unbalanced classification issue, so finding the right model to predict the risk for a lending company to supply loans. Using supervised learning, we trained and evaluated models and will provide a recommendation on which will best predict credit risk. 
 
 ## Results
-- **Naive Random Oversampling**
+### Naive Random Oversampling
 
 ![Naive Random Sampling](https://user-images.githubusercontent.com/102122063/183328168-377b9bd1-c289-4060-b7e6-870681d078e1.PNG)
 
@@ -16,7 +16,7 @@ The purpose of this project is to create and evaluate models that predict credit
     - Low-risk recall score of 0.62.
 -----
 
-- **SMOTE Oversampling**
+### SMOTE Oversampling
 
  - The SMOTE Oversampling model results:
     - Balanced accuracy score of 0.6622
@@ -26,7 +26,7 @@ The purpose of this project is to create and evaluate models that predict credit
     - Low-risk recall score of 0.69
 -----
 
-- **Undersampling**
+### Undersampling
  
 ![under sampling](https://user-images.githubusercontent.com/102122063/183328191-2107f180-7ae7-463f-9d32-ca4deb766d07.PNG)
 
@@ -38,7 +38,7 @@ The purpose of this project is to create and evaluate models that predict credit
     - Low-risk recall score of 0.40
  -----
  
-- **SMOTEEN Combination over/under sampling**
+### SMOTEEN Combination over/under sampling
 
 ![Combination sampling](https://user-images.githubusercontent.com/102122063/183328234-93fa7f42-5241-4d38-b8cf-130e8f82d1c7.PNG)
 
@@ -50,7 +50,7 @@ The purpose of this project is to create and evaluate models that predict credit
     - Low-risk recall score of 0.57 
  -----
  
-- **Ensemble Learners**
+### Ensemble Learners
   - Balanced Random Forest Classifier
   - Easy Ensemble AdaBoost Classifier
 
