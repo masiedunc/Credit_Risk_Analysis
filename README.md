@@ -57,6 +57,7 @@ The purpose of this project is to create and evaluate models that predict credit
     - High-risk recall score of 0.72
     - Low-risk precision score of 1.00
     - Low-risk recall score of 0.57 
+  -----
   
  ![random forest](https://user-images.githubusercontent.com/102122063/183329005-b4bc31ae-871e-4c99-82e0-b53217ad56c2.PNG)
 
